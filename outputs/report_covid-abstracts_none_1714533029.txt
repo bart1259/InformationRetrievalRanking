@@ -1,0 +1,6 @@
+Random | Top 1: 0.0005 | Top 10: 0.005 | Top 100: 0.055
+Bag of Words | Top 1: 0.0495 | Top 10: 0.1965 | Top 100: 0.522
+TF-IDF | Top 1: 0.794 | Top 10: 0.9615 | Top 100: 0.989
+BM25   | Top 1: 0.8995 | Top 10: 0.97 | Top 100: 0.9905
+Sentance Transformer | Top 1: 0.81 | Top 10: 0.955 | Top 100: 0.9965
+Fine Tuned Sentance Transformer | Top 1: 0.8255 | Top 10: 0.9595 | Top 100: 0.9965
